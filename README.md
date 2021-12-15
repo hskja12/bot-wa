@@ -1,2 +1,1 @@
 # bot-wa
-gabut
